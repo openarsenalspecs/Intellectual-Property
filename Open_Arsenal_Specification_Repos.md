@@ -70,7 +70,7 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 
 ---
 
-**Open Arsenal Specification Index**
+**Open Arsenal Specification Index**  
 [https://github.com/openarsenalspecs/Open-Arsenal](https://github.com/openarsenalspecs/Open-Arsenal)
 
 ---
