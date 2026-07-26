@@ -16,6 +16,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://gitlab.com/Roxanne_Ardary/Audiovista](https://gitlab.com/Roxanne_Ardary/Audiovista)  
   Cinematic AI engine that synchronizes audio and video with professional precision (dialogue, sound effects, ambient audio, and adaptive music). Supports physics-aware, predictive, and interactive features for VR/AR, multi-track editing, real-time previews, and immersive content creation.
 
+- [**AuthTrace AI Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/2ccd133d5b6abe7c9205c7b2e9c192a246c72458/AuthTrace%20AI.md)     
+  [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
+  A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets. It focuses on content ownership, traceability, and IP management.
+
 - **BranchWeb**   
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
   AI-powered platform that turns GitHub or GitLab repositories into interactive, deployable websites with AI-generated images, hover effects, dynamic visualizations, and explorable interfaces for projects and content.
@@ -24,9 +28,9 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
   A relational layer over WordPress (and similar systems) that transforms pages and posts into a structured, graph-based system using modular Spec Containers for improved content organization, connectivity, and management.
 
-- **AuthTrace AI**   
-  [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
-  A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets. It focuses on content ownership, traceability, and IP management.
+- **EpisodeMarket**   
+  [https://gitlab.com/Roxanne_Ardary](https://gitlab.com/Roxanne_Ardary)  
+  An open, atomic media commerce platform where television shows, films, and serialized content are sold as individual episodes rather than bundled subscriptions. It enables creators to set per-episode pricing and supports a direct content economy.
 
 - **License Guardian Network**  
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
@@ -35,10 +39,6 @@ All specifications are released under the GNU Affero General Public License v3.0
 - **Provenance (AI Component Bundle)**  
   [https://roxanneardary.com/open-source-projects/](https://roxanneardary.com/open-source-projects/)  
   Part of the core AI component bundles focused on traceability, authorship verification, content lineage tracking, and ownership management for knowledge and digital assets.
-
-- **EpisodeMarket**   
-  [https://gitlab.com/Roxanne_Ardary](https://gitlab.com/Roxanne_Ardary)  
-  An open, atomic media commerce platform where television shows, films, and serialized content are sold as individual episodes rather than bundled subscriptions. It enables creators to set per-episode pricing and supports a direct content economy.
 
  ---
 
