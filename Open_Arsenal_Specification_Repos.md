@@ -70,6 +70,11 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 
 ---
 
+**Open Arsenal Specification Index**
+[https://github.com/openarsenalspecs/Open-Arsenal](https://github.com/openarsenalspecs/Open-Arsenal)
+
+---
+
 ## License & Notice Requirements
 
 Open Arsenal specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
