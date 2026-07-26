@@ -38,13 +38,13 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 - **Health**  
 [https://github.com/openarsenalspecs/Health](https://github.com/openarsenalspecs/Health)
 - **Human in the Loop**  
-[https://github.com/openarsenalspecs/Human-in-the-Loop](https://github.com/openarsenalspecs/Human-in-the-Loop)  
-- **Legal**  
-[https://github.com/openarsenalspecs/Legal](https://github.com/openarsenalspecs/Legal)  
+[https://github.com/openarsenalspecs/Human-in-the-Loop](https://github.com/openarsenalspecs/Human-in-the-Loop)   
 - **Intellectual Property**  
 [https://github.com/openarsenalspecs/Intellectual-Property](https://github.com/openarsenalspecs/Intellectual-Property)
 - **Internet of Things**  
 [https://github.com/openarsenalspecs/IoT](https://github.com/openarsenalspecs/IoT)
+- **Legal**  
+[https://github.com/openarsenalspecs/Legal](https://github.com/openarsenalspecs/Legal)  
 - **Monetization**  
 [https://github.com/openarsenalspecs/Monetization](https://github.com/openarsenalspecs/Monetization)  
 - **Real Estate**  
