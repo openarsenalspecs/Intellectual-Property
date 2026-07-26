@@ -56,6 +56,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 - **Specification Branding License (SBL)**
   - Attribution-free commercial deployment
   - Pricing based on scale, usage, and deployment scope
+  - [https://roxanneardary.com/intellectual-property-specifications/](https://roxanneardary.com/intellectual-property-specifications/)  
  
 ---
 
