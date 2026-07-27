@@ -32,7 +32,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/episodemarket/](https://roxanneardary.com/episodemarket/)    
   An open, atomic media commerce platform where television shows, films, and serialized content are sold as individual episodes rather than bundled subscriptions. It enables creators to set per-episode pricing and supports a direct content economy.
 
-- **License Guardian Network**  
+- [**License Guardian Network Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/27d0b0d9fea4658d17acaea46837847fb7edeca0/LicenseTrace.md)    
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   A semantic licensing, provenance, and compliance system designed to track usage of specifications/content, verify attribution, detect semantic reuse/derivatives, and enforce AGPL-3.0+ compliance across distributed systems.
 
