@@ -28,8 +28,8 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
   A relational layer over WordPress (and similar systems) that transforms pages and posts into a structured, graph-based system using modular Spec Containers for improved content organization, connectivity, and management.
 
-- **EpisodeMarket**   
-  [https://gitlab.com/Roxanne_Ardary](https://gitlab.com/Roxanne_Ardary)  
+- [**EpisodeMarket Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/61590066824b21e12425167bec0ecff7c07c144e/EpisodeMarket.md)     
+  [https://roxanneardary.com/episodemarket/](https://roxanneardary.com/episodemarket/)    
   An open, atomic media commerce platform where television shows, films, and serialized content are sold as individual episodes rather than bundled subscriptions. It enables creators to set per-episode pricing and supports a direct content economy.
 
 - **License Guardian Network**  
