@@ -36,7 +36,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   A semantic licensing, provenance, and compliance system designed to track usage of specifications/content, verify attribution, detect semantic reuse/derivatives, and enforce AGPL-3.0+ compliance across distributed systems.
 
-- **Provenance (AI Component Bundle)**  
+- [**Provenance (AI Module Bundle)**](https://github.com/openarsenalspecs/Intellectual-Property/blob/1efdc95b8bf8f29ea26241001df1ee77fd6fae2c/Provenance.md)  
   [https://roxanneardary.com/open-source-projects/](https://roxanneardary.com/open-source-projects/)  
   Part of the core AI component bundles focused on traceability, authorship verification, content lineage tracking, and ownership management for knowledge and digital assets.
 
