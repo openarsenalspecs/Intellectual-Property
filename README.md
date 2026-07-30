@@ -12,7 +12,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/agoratv/](https://roxanneardary.com/agoratv/)  
   An open-source, democratically owned global broadcasting platform that empowers independent voices through public media infrastructure, multilingual accessibility, and transparent governance. It creates a modern digital public square for community-driven television and broadcasting without corporate gatekeeping.
 
-- **Audiovista**  
+- [**Audiovista Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/0acf6bfaa23682e013dcff207b1b7ca8688bddfc/Audiovista.md)    
   [https://gitlab.com/Roxanne_Ardary/Audiovista](https://gitlab.com/Roxanne_Ardary/Audiovista)  
   Cinematic AI engine that synchronizes audio and video with professional precision (dialogue, sound effects, ambient audio, and adaptive music). Supports physics-aware, predictive, and interactive features for VR/AR, multi-track editing, real-time previews, and immersive content creation.
 
