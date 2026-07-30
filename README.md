@@ -36,6 +36,10 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   A semantic licensing, provenance, and compliance system designed to track usage of specifications/content, verify attribution, detect semantic reuse/derivatives, and enforce AGPL-3.0+ compliance across distributed systems.
 
+- [**Multi-Agent Conflict Resolution Framework Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/adc84991bb95ad237a0eb810c36e7a1b1344ae1b/Multi-Agent%20Conflict%20Resolution%20Framework.md)  
+[https://roxanneardary.com/multi-agent-conflict-resolution-framework/](https://roxanneardary.com/multi-agent-conflict-resolution-framework/)
+Multi-Agent Conflict Resolution Framework (MACRF) is an open specification that enables autonomous AI agents to resolve conflicts through modular governance, negotiation, arbitration, and transparent decision-making systems.
+
 - [**Provenance (AI Module Bundle)**](https://github.com/openarsenalspecs/Intellectual-Property/blob/1efdc95b8bf8f29ea26241001df1ee77fd6fae2c/Provenance.md)  
   [https://roxanneardary.com/open-source-projects/](https://roxanneardary.com/open-source-projects/)  
   Part of the core AI component bundles focused on traceability, authorship verification, content lineage tracking, and ownership management for knowledge and digital assets.
