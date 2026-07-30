@@ -24,7 +24,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
   AI-powered platform that turns GitHub or GitLab repositories into interactive, deployable websites with AI-generated images, hover effects, dynamic visualizations, and explorable interfaces for projects and content.
 
-- **ContentGraph**    
+- [**ContentGraph Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/af93409786fa8c1275289a64b465c853c5eab8f2/ContentGraph.md)      
   [https://roxanneardary.com/contentgraph/](https://roxanneardary.com/contentgraph/)  
   A relational layer over WordPress (and similar systems) that transforms pages and posts into a structured, graph-based system using modular Spec Containers for improved content organization, connectivity, and management.
 
