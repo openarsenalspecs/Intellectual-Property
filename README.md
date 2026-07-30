@@ -8,7 +8,7 @@ All specifications are released under the GNU Affero General Public License v3.0
 
 ## Intellectual Property Specs
 
-- **AgoraTV**   
+- [**AgoraTV Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/479e3db090755fd66ce15e685a8045d340d17445/AgoraTV.md)     
   [https://roxanneardary.com/agoratv/](https://roxanneardary.com/agoratv/)  
   An open-source, democratically owned global broadcasting platform that empowers independent voices through public media infrastructure, multilingual accessibility, and transparent governance. It creates a modern digital public square for community-driven television and broadcasting without corporate gatekeeping.
 
