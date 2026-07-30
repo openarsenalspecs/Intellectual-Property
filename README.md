@@ -20,7 +20,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
   A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets. It focuses on content ownership, traceability, and IP management.
 
-- **BranchWeb**   
+- [**BranchWeb Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/8b2d55faeeac1e7b7869fb128d2593545f458f43/BranchWeb.md)     
   [https://roxanneardary.com/branchweb/](https://roxanneardary.com/branchweb/)  
   AI-powered platform that turns GitHub or GitLab repositories into interactive, deployable websites with AI-generated images, hover effects, dynamic visualizations, and explorable interfaces for projects and content.
 
