@@ -16,7 +16,7 @@ All specifications are released under the GNU Affero General Public License v3.0
   [https://gitlab.com/Roxanne_Ardary/Audiovista](https://gitlab.com/Roxanne_Ardary/Audiovista)  
   Cinematic AI engine that synchronizes audio and video with professional precision (dialogue, sound effects, ambient audio, and adaptive music). Supports physics-aware, predictive, and interactive features for VR/AR, multi-track editing, real-time previews, and immersive content creation.
 
-- [**AuthTrace AI Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/2ccd133d5b6abe7c9205c7b2e9c192a246c72458/AuthTrace%20AI.md)     
+- [**AuthTrace AI Module Specification**](https://github.com/openarsenalspecs/Intellectual-Property/blob/65fda3d2d70afd31a900192e69bea17fd784f45f/AuthTrace%20AI.md)  
   [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
   A provenance-first AI system that verifies authorship, tracks content lineage, and transforms human knowledge into structured, licensable digital assets. It focuses on content ownership, traceability, and IP management.
 
